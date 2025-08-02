@@ -11,8 +11,8 @@ function App() {
   return (
     <>
       <h1 className='bg-green-400 text-black p4 rounded-xl mb-4'>Tailwind</h1>
-      <Card username={"Vratesh"} price= "599" colorPart= "999"/>
-      <Card username={"Yash"}  colorPart = "678"/>
+      <Card username={"Atharva"} price= "599" colorPart= "999"/>
+      <Card username={"Vedant"}  colorPart = "678"/>
         
     </>
   )
